@@ -1,1 +1,1 @@
-<img src="Фон для Github.png" width="100%">
+<img src="Фон 8 для Github.png" width="100%">
