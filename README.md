@@ -1,1 +1,7 @@
-<img src="Фон 8 для Github.png" width="100%">
+<p align="center">
+  <img src="Слева.png" height="220">
+  &emsp;&emsp;&emsp;
+  <img src="center.gif" height="220">
+  &emsp;&emsp;&emsp;
+  <img src="Справа.png" height="220">
+</p>
