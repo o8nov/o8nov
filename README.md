@@ -1,1 +1,1 @@
-<img src="укукук.png" width="100%">
+<img src="fon.png" width="100%">
