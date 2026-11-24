@@ -1,1 +1,3 @@
-<p align="center"><img src="Слева%20250.png" height="165" align="left"><img src="Справа%20250.png" height="165" align="right"><img src="center%20250.gif" height="165"></p>
+<p align="center">
+  <img src="2026-11-24-181026-colored_226x226.gif" width="226" height="226">
+</p>
